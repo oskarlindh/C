@@ -1,0 +1,13 @@
+#Filetypes
+*.class
+*.DS_Store
+*.swp
+*.#
+
+#Ctags
+tags
+
+#Directories
+build/
+javadoc/
+
